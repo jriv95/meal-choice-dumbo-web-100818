@@ -5,5 +5,5 @@ def meal_choice(arg1="meat")
   return arg1;
 end
 
-meal_choice();
-meal_choice("vegan")
+print meal_choice();
+print meal_choice("vegan")
