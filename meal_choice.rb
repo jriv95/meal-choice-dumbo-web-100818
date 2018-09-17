@@ -3,3 +3,5 @@
 
 def meal_choice(arg1="meat")
 end
+meal_choice();
+meal_choice("meal")
