@@ -2,6 +2,7 @@
 # passed into it and defaults to meat.
 
 def meal_choice(arg1="meat")
+  print arg1
 end
 meal_choice();
 meal_choice("vegan")
